@@ -2,6 +2,9 @@
 
 A string generator designed to enhance real-time editing of ordered sequences by making the process of reordering, sorting, and interleaving transactions more efficient.
 
+This package pairs seamlessly with the corresponding Go implementation for enabling end-to-end consistency.
+- **Go**: [lexical_order](https://github.com/gym-minsik/lexical_order)
+
 # Usage
 
 - **between(String prev, String next)**.    

@@ -1,3 +1,6 @@
+## 1.5.1
+- docs: Mention corresponding Go backend package
+
 ## 1.5.0
   - Remove unnecessary warning section from README to simplify usage understanding and emphasize the package's straightforward functionality.
 
